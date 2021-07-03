@@ -1,0 +1,36 @@
+#EXTM3U
+
+
+#EXTINF:-1 , Las Estrellas
+
+http://e10.telerium.uno:2052/free10/038/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMToyMDoxMCBBTSZoYXNoX3ZhbHVlPTNCQUNFMndCdnJKb3ZjeTdrTXNicGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+
+#EXTINF:-1 , Las Estrellas FHD
+
+http://e10.telerium.uno:2052/free10/930/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMToyMTo1MyBBTSZoYXNoX3ZhbHVlPWdiaDE4bVUrZUVmQWJ1OG8vZ25lMmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 , Canal 5 
+
+http://e10.telerium.uno:2052/free10/010/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMjoxMDo0OCBBTSZoYXNoX3ZhbHVlPU5oamYzRU1vNFNhTE85YXZjUGhaaGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 , Canal 5 FHD
+
+http://e10.telerium.uno:2052/free10/915/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMjoxNDoxNiBBTSZoYXNoX3ZhbHVlPXZyL1E1ZEVhRHVPUitYTmIybXI3Znc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 , Azteca 7 
+
+http://e10.telerium.uno:2052/free10/009/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMjoxNTo1MyBBTSZoYXNoX3ZhbHVlPTRNR29jTXJqU2hHNzlZUXJCVWh4dmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 , Azteca 7 FHD
+
+http://e10.telerium.uno:2052/free10/917/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMjoxNzozNSBBTSZoYXNoX3ZhbHVlPWs2d2ViMFpXWktva0VpOWVEN1p3NHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 , Azteca Uno 
+
+http://e10.telerium.uno:2052/free10/308/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMjoxOToyMSBBTSZoYXNoX3ZhbHVlPUpGZWFob2RZUnp4NFg3K3lyT2pKVFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 , Azteca Uno FHD
+
+http://e10.telerium.uno:2052/free10/931/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMjoyMToxMSBBTSZoYXNoX3ZhbHVlPTZ3RTBiNnkrUEw3bWw2blZLQkM3Smc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
